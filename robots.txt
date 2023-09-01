@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hanlray.github.io/sitemap.xml
